@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Android1Homework1</string>
+    <string name="form">Заполните форму:</string>
+    <string name="driver_name">Ваше имя:</string>
+    <string name="user">user</string>
+    <string name="experienced_driver">Вы - опытный водитель</string>
+    <string name="experience_year">более 3-х лет</string>
+    <string name="subscriptions">Предлагаем подписаться на наши новости:</string>
+    <string name="subscription1">Без штрафов</string>
+    <string name="subscription2">Новый КоАП</string>
+    <string name="subscription3">Техосмотр</string>
+    <string name="inspection">Прошли техосмотр</string>
+    <string name="agree_no">нет</string>
+    <string name="agree_yes">да</string>
+    <string name="send">отправить</string>
 </resources>
